@@ -1,0 +1,100 @@
+	body
+	{
+		padding:		    10px 0px;
+		background-color:	#000000;
+		font-family:		verdana, arial, sans-serif;
+		color:              #FFFFFF;
+	}
+
+	a:link
+	{
+		text-decoration:	none;
+		background-color:	transparent;
+		color:			#FFFFFF;
+		font-weight:      bold;
+	}
+
+	a:visited,
+	a:active
+	{
+		text-decoration:	none;
+		background-color:	transparent;
+		color:			     #FFFFFF;
+        font-weight:        bold;
+	}
+
+	a:hover,
+	{
+		text-decoration:	underline;
+		background-color:	transparent;
+		font-weight:      bold;
+	}
+	
+	td
+	{
+		font-size:		11px;
+	}
+
+	#container
+	{
+		width: 960px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	/* Page Headers */
+	h1
+	{
+		font-size:		100px;
+		font-weight:		bold;	
+		letter-spacing:		-1px;
+		background-color:	transparent;
+		text-align:		center;
+		padding:		0px;
+		margin:			0px;
+		margin-bottom:		10px;
+		color:			#FFFFFF;
+	}
+	h4
+	{
+		font-style:		italic;
+		text-align:		center;
+	}
+	
+	.indent
+	{
+		padding-left:		40px;
+	}
+
+    #header
+    {
+        font-weight:		bold;
+        font-size:		12px;
+        text-align:		left;
+        margin:			0px;
+        padding:		0px;
+        border:			0px;
+        border-bottom:		2px solid #FFFFFF;
+    }
+       
+    div,
+    li
+    {
+        font-size:      11px;
+        text-align:     left;
+        padding:        5px;
+        font-weight:    normal;
+        padding-left:   20px;
+    }
+    
+    div.title
+    {
+        font-weight:    bold;
+        font-size:      12px;
+    }
+
+    #menu
+    {
+        font-weight:	bold;
+        text-align:	center;
+    }
